@@ -1,5 +1,13 @@
 ### My name is Kseniia Golikova👋
 
+**Data Science**:
+
+Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras
+
+**Databases**:
+
+PostgreSQL
+
 <!--
 **KseniiaGolikova/KseniiaGolikova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
