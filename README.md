@@ -1,6 +1,6 @@
 ### My name is Kseniia Golikova👋
 
-I am a novice IT specialist with a great desire to learn and explore something new. My analytical mindset and love of mathematics led me to Data Science⚡
+I am Ph.D in Technical Science but a novice IT specialist with a great desire to learn and explore something new. My analytical mindset and love of mathematics led me to Data Science⚡
 
 **Data Science**:
 
